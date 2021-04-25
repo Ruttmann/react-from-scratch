@@ -1,0 +1,24 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "React project set up from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruttmann/react-from-scratch.git"
+  },
+  "keywords": [
+    "react",
+    "setup",
+    "scratch"
+  ],
+  "author": "Marlon Ruttmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ruttmann/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/Ruttmann/react-from-scratch#readme"
+}
