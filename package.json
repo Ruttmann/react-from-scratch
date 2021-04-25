@@ -4,7 +4,7 @@
   "description": "React project set up from scratch",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:dev": "webpack serve --mode=development"
   },
   "repository": {
     "type": "git",
